@@ -1,0 +1,82 @@
+1.	Liệt kê quy trình doanh nghiệp (10 điểm)
+	•	Tối thiểu 10 quy trình, gồm:
+	o	3 quy trình quản lý (Management).
+	o	3 quy trình cốt lõi (Core).
+	o	3 quy trình hỗ trợ (Support).
+	•	Vẽ kiến trúc quy trình nghiệp vụ.
+	•	Mỗi quy trình cần có:
+	o	Tên quy trình, tác nhân (Actor).
+	o	Mô tả các bước bằng lời.
+	o	Đối tượng khách hàng.
+	o	Các kết quả có thể xảy ra.
+	
+2.	Mô hình hóa quy trình (10 điểm)
+	Mô hình hóa tối thiểu 6 quy trình bằng BPMN:
+	•	2 quy trình quản lý.
+	•	2 quy trình cốt lõi.
+	•	2 quy trình hỗ trợ.
+	Yêu cầu:
+	•	Slide: 1–3 quy trình.
+	•	Word: 6 quy trình.
+	•	Có Gateway, Split & Join.
+	•	Độ phức tạp: ưu tiên trên 7 cổng điều kiện để đạt điểm tối đa.
+	
+3.	Phương pháp thực hiện (10 điểm)
+	A. Thu thập bằng chứng
+	•	Mô tả quy trình hiện tại.
+	•	Sơ đồ tổ chức.
+	•	Kế hoạch làm việc.
+	•	Thuật ngữ, sổ tay.
+	•	Biểu mẫu liên quan.
+	B. Phỏng vấn
+	•	10 câu hỏi định tính: 5 có cấu trúc, 5 không cấu trúc.
+	•	10 câu hỏi định lượng: 5 có cấu trúc, 5 không cấu trúc.
+	4.	Phân tích quy trình (10 điểm)
+	A. Phân tích định tính – 2 quy trình
+	1.	Phân tích giá trị gia tăng:
+	o	VA: Hoạt động tăng giá trị.
+	o	BVA: Hoạt động tăng giá trị kinh doanh.
+	o	NVA: Hoạt động không tăng giá trị.
+	2.	Phân tích lãng phí:
+	o	Move, Hold, Overdo.
+	3.	Phân tích các bên liên quan:
+	o	Chọn một mô hình: Pareto, Root Cause hoặc Fishbone.
+	B. Phân tích định lượng – 2 quy trình
+	•	Thời gian xử lý.
+	•	Chất lượng.
+	•	Chi phí.
+	•	Đưa ra hướng khắc phục.
+4.	Trình bày báo cáo (10 điểm)
+	Slide và Word:
+	•	Đúng chính tả, font chữ, màu sắc, kích thước.
+	•	Có mục lục, danh mục hình, bảng và từ viết tắt.
+	•	Có đánh số trang, hình ảnh, bảng biểu.
+	•	Có tài liệu tham khảo.
+	•	Word theo mẫu báo cáo của UIT.
+	
+=========================================================================
+Quốc Sỹ: Tổng quan và quy trình nghiệp vụ 
+==> Chương tổng quan, danh sách quy trình, kiến trúc, 2 BPMN, 1 phần phân tích.
+
+Thành Đạt: Phân tích và báo cáo 
+===> 2 BPMN, 2 phần phân tích định lượng, đề xuất cải tiến, báo cáo tổng hợp.
+
+Minh Thắng: Mô hình hóa BPMN 
+===> Phương pháp thực hiện, bộ câu hỏi, 2 BPMN, 1 phần phân tích.
+
+==========================================================================
+
+Quy trình:
+Management – Quản lý
+	1. Quản lý chiến lược kinh doanh
+	2. Quản lý chất lượng dịch vụ
+	3. Quản lý nhân sự
+Core – Cốt lõi
+	4. Tư vấn và bán tour
+	5. Đặt tour và thanh toán
+	6. Tổ chức và điều hành tour
+	7. Chăm sóc khách hàng
+Support – Hỗ trợ
+	8. Quản lý nhà cung cấp
+	9. Kế toán và thanh toán
+	10. Tuyển dụng và đào tạo nhân sự
